@@ -1,6 +1,6 @@
 # Fedorenchik Pavel
 
-FRONT-END DEVELOPER
+SENIOR IT SUPPORT ENGINEER
 
 ### Contact Details
 
