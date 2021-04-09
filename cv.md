@@ -1,6 +1,6 @@
 # Fedorenchik Pavel
 
-SENIOR IT SUPPORT ENGINEER
+FRONT-END DEVELOPER
 
 ### Contact Details
 
@@ -28,12 +28,12 @@ Database Administrator
 
 ### Skills
 
-- HTML
-- CSS
+- HTML/CSS/SCSS
+- Git
 - PowerShell
 - Oracle (PLSQL, OEM)
-- Git
 - Zabbix
+- IBM Lotus Notes
 - Jira
 - Wildfly, Nginx
 
