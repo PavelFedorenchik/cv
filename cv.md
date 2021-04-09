@@ -45,7 +45,7 @@ Database Administrator
 - Senior IT Support Engineer  
   Service Desk (Feb 2018 - Oct 2018)
 
-- Middle Customer Support Engineer
+- Middle IT Support Engineer
   Softclub (Jan 2017 - Jan 2018)
 
 - Middle Customer Support Engineer
