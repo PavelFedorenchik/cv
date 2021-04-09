@@ -1,6 +1,6 @@
 # Fedorenchik Pavel
 
-SENIOR IT SUPPORT ENGINEER
+FRONT-END DEVELOPER
 
 ### Contact Details
 
@@ -28,27 +28,27 @@ Database Administrator
 
 ### Skills
 
-- HTML
-- CSS
+- HTML/CSS/SCSS
+- Git
 - PowerShell
 - Oracle (PLSQL, OEM)
-- Git
 - Zabbix
+- IBM Lotus Notes
 - Jira
 - Wildfly, Nginx
 
 ### Work History
 
 - Senior IT Support Engineer  
-  CJSC "Trade Capital Bank" (Oct 2017 - Now)
+  CJSC "Trade Capital Bank" (Oct 2018 - Now)
 
 - Senior IT Support Engineer  
   Service Desk (Feb 2018 - Oct 2018)
 
-- Middle Customer Support Engineer
+- Middle IT Support Engineer  
   Softclub (Jan 2017 - Jan 2018)
 
-- Middle Customer Support Engineer
+- Middle Customer Support Engineer  
   Sberbank-Technology (Jul 2013 - Jan 2017)
 
 - Junior IT Support Engineer  
