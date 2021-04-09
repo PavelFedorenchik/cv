@@ -40,7 +40,7 @@ Database Administrator
 ### Work History
 
 - Senior IT Support Engineer  
-  CJSC "Trade Capital Bank" (Oct 2017 - Now)
+  CJSC "Trade Capital Bank" (Oct 2018 - Now)
 
 - Senior IT Support Engineer  
   Service Desk (Feb 2018 - Oct 2018)
