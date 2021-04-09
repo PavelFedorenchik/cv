@@ -45,10 +45,10 @@ Database Administrator
 - Senior IT Support Engineer  
   Service Desk (Feb 2018 - Oct 2018)
 
-- Middle IT Support Engineer
+- Middle IT Support Engineer  
   Softclub (Jan 2017 - Jan 2018)
 
-- Middle Customer Support Engineer
+- Middle Customer Support Engineer  
   Sberbank-Technology (Jul 2013 - Jan 2017)
 
 - Junior IT Support Engineer  
