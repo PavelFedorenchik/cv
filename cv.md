@@ -20,27 +20,39 @@ English A2
 
 ### Personal Summary
 
-Last 2 years I worked as a freelancer in creating sites and setting up an advertisements
+12 years experience in banking system of Belarus.
+Customer support
+Technical support
+AD administrator
+Database Administrator
 
-### Core Skills
+### Skills
 
 - HTML
 - CSS
 - PowerShell
-- PLSQL
+- Oracle (PLSQL, OEM)
 - Git
 - Zabbix
 - Jira
-- Weblogic
+- Wildfly, Nginx
 
 ### Work History
 
-- SELF EMPLOYED  
-  Freelancer Apr 2017 - Now
-- INDIVIDUAL ENTREPRENEUR  
-  Business in sales 2015 - 2017
-- INSURANCE AGENT  
-  Belrossrah Jul 2011 - Apr 2015
+- Senior IT Support Engineer  
+  CJSC "Trade Capital Bank" (Oct 2017 - Now)
+
+- Senior IT Support Engineer  
+  Service Desk (Feb 2018 - Oct 2018)
+
+- Middle Customer Support Engineer
+  Softclub (Jan 2017 - Jan 2018)
+
+- Middle Customer Support Engineer
+  Sberbank-Technology (Jul 2013 - Jan 2017)
+
+- Junior IT Support Engineer  
+  CJSC "Trade Capital Bank" (Oct 2008 - Oct 2012)
 
 ### Education
 
